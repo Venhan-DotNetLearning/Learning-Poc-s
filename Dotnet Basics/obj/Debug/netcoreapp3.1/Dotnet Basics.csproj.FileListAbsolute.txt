@@ -1,0 +1,13 @@
+C:\Users\vh-admin\source\repos\Dotnet Basics\bin\Debug\netcoreapp3.1\Dotnet Basics.exe
+C:\Users\vh-admin\source\repos\Dotnet Basics\bin\Debug\netcoreapp3.1\Dotnet Basics.deps.json
+C:\Users\vh-admin\source\repos\Dotnet Basics\bin\Debug\netcoreapp3.1\Dotnet Basics.runtimeconfig.json
+C:\Users\vh-admin\source\repos\Dotnet Basics\bin\Debug\netcoreapp3.1\Dotnet Basics.runtimeconfig.dev.json
+C:\Users\vh-admin\source\repos\Dotnet Basics\bin\Debug\netcoreapp3.1\Dotnet Basics.dll
+C:\Users\vh-admin\source\repos\Dotnet Basics\bin\Debug\netcoreapp3.1\Dotnet Basics.pdb
+C:\Users\vh-admin\source\repos\Dotnet Basics\obj\Debug\netcoreapp3.1\Dotnet Basics.csprojAssemblyReference.cache
+C:\Users\vh-admin\source\repos\Dotnet Basics\obj\Debug\netcoreapp3.1\Dotnet Basics.AssemblyInfoInputs.cache
+C:\Users\vh-admin\source\repos\Dotnet Basics\obj\Debug\netcoreapp3.1\Dotnet Basics.AssemblyInfo.cs
+C:\Users\vh-admin\source\repos\Dotnet Basics\obj\Debug\netcoreapp3.1\Dotnet Basics.csproj.CoreCompileInputs.cache
+C:\Users\vh-admin\source\repos\Dotnet Basics\obj\Debug\netcoreapp3.1\Dotnet Basics.dll
+C:\Users\vh-admin\source\repos\Dotnet Basics\obj\Debug\netcoreapp3.1\Dotnet Basics.pdb
+C:\Users\vh-admin\source\repos\Dotnet Basics\obj\Debug\netcoreapp3.1\Dotnet Basics.genruntimeconfig.cache
